@@ -10,7 +10,7 @@ let floatNum = 3.14;
 let bigIntNum = 9007199254740991n;
 
 // String (Text)
-let singleQuoteStr = 'Hello';
+let singleQuoteStr = 'Hello'; 
 let doubleQuoteStr = "World";
 let templateStr = `${singleQuoteStr} ${doubleQuoteStr}`;
 
