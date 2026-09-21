@@ -15,7 +15,7 @@ let doubleQuoteStr = "World";
 let templateStr = `${singleQuoteStr} ${doubleQuoteStr}`;
 
 // Boolean (true / false)
-let isJavaScriptFun = true;
+let isJavaScriptFun = true; 
 let isTired = false;
 
 // Undefined (Declared but no value assigned)
