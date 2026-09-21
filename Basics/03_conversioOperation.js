@@ -7,7 +7,7 @@ console.log(typeof score);
 let convertedScore = Number(score);
 
 let convertedScore1 = Number(score1);
-
+ 
 console.log(typeof convertedScore); 
 console.log(convertedScore); 
 
