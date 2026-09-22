@@ -8,7 +8,7 @@ console.log(3
      3) // code readability should be high
 
 console.log("Ayush")
-
+ 
 
 let name = "Ayush"  
 let age = 18
