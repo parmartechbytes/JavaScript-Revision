@@ -11,5 +11,5 @@ let convertedScore1 = Number(score1);
 console.log(typeof convertedScore); 
 console.log(convertedScore);  
 
-console.log(typeof convertedScore1); 
+console.log(typeof convertedScore1);  
 console.log(convertedScore1);
