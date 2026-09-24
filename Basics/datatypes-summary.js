@@ -9,8 +9,8 @@ const isLoggedIn = false;
 const outsideTemp = null;
 let userEmail;
 
-const id = Symbol('123');
-const anotherId = Symbol('123');
+const id = Symbol('12');
+const anotherId = Symbol('12');
 
 console.log(id === anotherId); // false (each Symbol is guaranteed unique)
 
