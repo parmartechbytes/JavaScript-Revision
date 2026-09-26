@@ -3,8 +3,8 @@
 // ==========================================
 
 // Number (Integers & Floats)
-let integerNum = 42;
-let floatNum = 3.14;
+let integerNum = 452;
+let floatNum = 33.14;
 
 // BigInt (Arbitrary precision integers)
 let bigIntNum = 9007199254740991n;
@@ -30,7 +30,7 @@ let uniqueId = Symbol("id");
 // Object (Key-value pairs, non-primitive)
 let person = {
   name: "Alex",
-  age: 30
+  age: 35
 };
 
 
@@ -38,8 +38,8 @@ let person = {
 // 2. ARITHMETIC OPERATORS
 // ==========================================
 
-let a = 10;
-let b = 3;
+let a = 101;
+let b = 23;
 
 let sum = a + b;             // Addition: 13
 let difference = a - b;      // Subtraction: 7
