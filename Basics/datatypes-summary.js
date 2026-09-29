@@ -2,8 +2,8 @@
 
 // 7 types: String, Number, Boolean, null, undefined, Symbol, BigInt
 
-const score = 100;
-const scoreValue = 100.3;
+const score = 10;
+const scoreValue = 10.3;
 
 const isLoggedIn = false;
 const outsideTemp = null;
