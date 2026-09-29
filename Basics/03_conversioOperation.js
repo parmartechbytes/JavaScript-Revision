@@ -1,4 +1,4 @@
-let score = "780"; 
+let score = "50"; 
 let score1 = "35ba";
 
 console.log(typeof score); 
