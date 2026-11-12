@@ -3,9 +3,7 @@
 
 // alert( 3 + 3) // we are using nodejs, not browser
 
-console.log(3 
-    +
-     6) // code readability should be highs
+console.log(3 + 8) // code readability should be highs
 
 console.log("Ayush")
  
