@@ -5,7 +5,7 @@
 
 console.log(3 
     +
-     3) // code readability should be highs
+     6) // code readability should be highs
 
 console.log("Ayush")
  
