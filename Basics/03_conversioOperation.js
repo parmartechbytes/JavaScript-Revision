@@ -1,5 +1,5 @@
-let score = "50"; 
-let score1 = "35AA";
+let score = "500"; 
+let score1 = "35A";
 
 console.log(typeof score); 
 console.log(typeof score);
